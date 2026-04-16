@@ -1,0 +1,22 @@
+# 配置文件（含密钥，不可提交）
+config.py
+
+# 临时文件
+temp_audio.mp3
+
+# 输出目录
+output_tutorial_pro/
+
+# 视频文件
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
